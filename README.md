@@ -1,1 +1,1 @@
-# Simple-Multi-Layer-Perceptron
+# Group 47
